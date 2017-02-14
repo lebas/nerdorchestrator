@@ -1,6 +1,8 @@
 """
 Settings for the Orchestra app.
-
+TIME
+SLACK
+CRIAÇAO DO FLOW
 Modify these according to your setup, then make sure they are included in your
 main settings file by adding::
 
